@@ -1,0 +1,11 @@
+header{
+    height: 70px;
+    background-color: aqua;
+    width: 100%;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
